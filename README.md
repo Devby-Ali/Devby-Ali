@@ -9,16 +9,14 @@
  <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="css" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="60" height="60" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="HTML5" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="Restapi" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="60" height="60" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="60" height="60" />
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VsCode" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="60" height="60"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="60" height="60" />
 </div>
