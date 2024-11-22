@@ -9,15 +9,16 @@
  <br />
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="60" height="60" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" alt="HTML5" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="60" alt="Tailwind" /> &nbsp;
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="Restapi" />
+  <img src="https://skillicons.dev/icons?i=vite" width="50" height="60" alt="vite" /> &nbsp;
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="60" height="60" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="60"/>
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="60" height="60" />
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="60" height="60"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="60" alt="Git" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="60"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="60" height="60" />
 </div>
 
@@ -34,7 +35,7 @@
 <div>
   <a href="https://github.com/devby-ali?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=devby-ali&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats"/>
-  </a>
+  </a> &nbsp;
   <a href="https://github.com/devby-ali?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=devby-ali&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
   </a>
