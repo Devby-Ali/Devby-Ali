@@ -26,17 +26,13 @@
 
 <h2 align="center"> GitHub Analytics </h2>
 
-  <br />
+<br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devby-ali&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-<div>
-  <a href="https://github.com/devby-ali?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=devby-ali&theme=nightowl&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats"/>
-  </a> &nbsp;
-  <a href="https://github.com/devby-ali?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=devby-ali&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
-  </a>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devby-ali&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+ <br />
+ <img src="https://github-readme-stats-one-bice.vercel.app/api?username=devby-ali&theme=nightowl&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+ <br />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devby-ali&theme=nightowl&hide_border=true" alt="GitHub Streak"/>
 </div>
+
