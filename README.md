@@ -35,6 +35,7 @@
  <br />
  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=devby-ali&theme=nightowl&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
  <br />
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devby-ali&theme=nightowl&hide_border=true" alt="GitHub Streak"/>
+ <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=devby-ali&theme=nightowl&show_icons=true&count_private=true&hide_border=true" alt="devby-ali Readme Streak" />
+
 </div>
 
