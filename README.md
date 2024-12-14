@@ -22,6 +22,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50" height="60" alt="Git" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="50" height="60"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="60" height="60" />
+ <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="60" height="60" />
 </div>
 
 <br/>
