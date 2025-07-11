@@ -2,7 +2,7 @@
 
 > I'm Ali, a Front-end deveolper and software Engineer from Iran. I am a passoniate self-taught developer. I am always eager to learn new technologies, new techniques and improve my skills. I try my level best to keep up with the advances.  I love collaborating on innovative projects and contributing to open-source. Let’s connect and build something amazing!
 > <br />
->  You can contact me at [ali080bakhshi@gmail.com](mailto:ali080bakhshi@gmail.com)
+>  You can contact me at [ali81fordev@gmail.com](mailto:ali81fordev@gmail.com)
 
 <br />
 
