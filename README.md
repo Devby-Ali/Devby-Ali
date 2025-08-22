@@ -16,6 +16,7 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="type-script" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="60" height="60" />
+<img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="vue" width="60" height="60" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="60" alt="Tailwind" /> &nbsp;
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60" height="60" alt="Restapi" />
   <img src="https://skillicons.dev/icons?i=vite" width="50" height="60" alt="vite" /> &nbsp;
