@@ -61,8 +61,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devby-ali&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
  <br />
  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=devby-ali&theme=nightowl&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
- <br />
- <img  width=400 src="https://nirzak-streak-stats.vercel.app/?user=devby-ali&theme=nightowl&show_icons=true&count_private=true&hide_border=true" alt="devby-ali Readme Streak" />
 
 </div>
 
